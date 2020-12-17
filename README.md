@@ -8,7 +8,7 @@
 #### You can see what I am upto on [here](!aryankargwal.github.io).
 
 ## 👨‍💻 What I code in<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryankargwal)](https://github.com/aryankargwal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryankargwal&layout=compact)](https://github.com/aryankargwal/github-readme-stats)
 
 ## 🔦 Shining Light on top Repos
 ### [Cap-Bot](https://github.com/aryankargwal/cap-bot)
@@ -24,7 +24,7 @@
 <img src="assets/streamlit.gif" style="height: 400px">
 
 ## 💪🏼 My Stats<br>
-![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=aryankargwal)
+![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=aryankargwal&count_private=true)
 
 ## ✉️ How to reach me<br>
 <a href="mailto:kargwalaryan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><br>
