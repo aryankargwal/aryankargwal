@@ -1,8 +1,7 @@
 # 👋 Welcome to me
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 
-#### Hello people and welcome to my Github (the hub to my gits). My name is Aryan Kargwal, fun fact that's the same name after the ``github.com``. </br>
-<img src="assets/head.jpg">
+#### Hello people and welcome to my Github (the hub to my gits). My name is Aryan Kargwal, fun fact that's the same name after the ``github.com``. <br>
 
 #### I create Blogs, Machine Learning Models, Websites, Posters and when I am not doing either of these things I am a sophmore at SRMIST Chennai and am pursuing my Bachelors in Computer Science from the institute.
 
