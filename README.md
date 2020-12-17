@@ -10,7 +10,7 @@
 ## 👨‍💻 What I code in<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryankargwal&layout=compact)](https://github.com/aryankargwal/github-readme-stats)
 
-## 🔦 Shining Light on top Repos
+## 🔦 Shining Light on top repos
 ### [Cap-Bot](https://github.com/aryankargwal/cap-bot)
 #### Cap-Bot was my first hardcore venture into NLP and Electron Apps and was a joint venture of me and my team in the HackSRM3.0
 <img src="assets/capbot.gif" style="height:400px">
